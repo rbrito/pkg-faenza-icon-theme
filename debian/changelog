@@ -1,6 +1,6 @@
-faenza-icon-theme (1.3.1-0~3.gbp04c18e) UNRELEASED; urgency=low
+faenza-icon-theme (1.3.1-0~6.gbp79e51c) UNRELEASED; urgency=low
 
-  ** SNAPSHOT build @04c18e39bb896b3f4b9d233d5c12697e6c557916 **
+  ** SNAPSHOT build @79e51ca0dcc7425050cc7c3802f2a15e63caae47 **
 
   * Use non-native version string.
   * debian/source/format:
@@ -15,8 +15,15 @@ faenza-icon-theme (1.3.1-0~3.gbp04c18e) UNRELEASED; urgency=low
   * debian/copyright:
     + Change completely to Copyright Format 1.0.
     + Fix indentation with `cme fix dpkg`.
+  * debian/dirs:
+    + Remove unused directories.
+  * debian/rules:
+    + Vastly simply debian/rules with dh(1) style.
+    + Simplify the rules file even more.
+    + Remove executable permissions from non-programs.
+    + Use xz compression for the binary package.
 
- -- Rogério Brito <rbrito@ime.usp.br>  Fri, 10 May 2013 03:50:31 -0300
+ -- Rogério Brito <rbrito@ime.usp.br>  Fri, 10 May 2013 05:17:33 -0300
 
 faenza-icon-theme (1.3.1) precise; urgency=low
 
