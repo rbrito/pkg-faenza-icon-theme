@@ -14,7 +14,7 @@
    height="16"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.3.1 r9886"
    version="1.0"
    sodipodi:docname="weather-few-clouds-night-symbolic.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -709,9 +709,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.731675"
-     inkscape:cx="-33.377654"
-     inkscape:cy="13.468438"
+     inkscape:zoom="20.016731"
+     inkscape:cx="23.254944"
+     inkscape:cy="2.9336571"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -719,9 +719,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-global="true">
     <sodipodi:guide
@@ -763,17 +763,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="opacity:0.45;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 10 1 C 6.6862915 1 4 3.6862915 4 7 C 4 7.7939093 4.1574267 8.5564323 4.4375 9.25 C 4.9077627 9.0261987 5.4369749 8.90625 6 8.90625 C 7.9123923 8.90625 9.4723357 10.276843 9.90625 12.0625 C 10.475749 12.166561 10.983837 12.452562 11.375 12.84375 C 14.029598 12.224752 16 9.8431192 16 7 C 16 3.6862915 13.313708 1 10 1 z "
-       id="path4792" />
+       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 12.5,9 c 1.932997,0 3.5,1.567003 3.5,3.5 0,1.932997 -1.567003,3.5 -3.5,3.5 l -3,0 C 8.119288,16 7,14.880712 7,13.5 7,12.17372 8.03855,11.114742 9.34375,11.03125 9.898474,9.830684 11.090611,9 12.5,9 z"
+       id="path3098"
+       inkscape:connector-curvature="0" />
     <path
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
-       d="M 10 1 C 6.6862915 1 4 3.6862915 4 7 C 4 7.828427 4.1651335 8.6259199 4.46875 9.34375 C 4.9314266 9.1236603 5.4455641 9 6 9 C 7.8839105 9 9.4039015 10.359354 9.8125 12.125 C 10.379568 12.207877 10.89022 12.462338 11.28125 12.84375 C 13.39972 12.388054 15.082457 10.826994 15.71875 8.78125 C 14.854172 9.787402 13.586889 10.4375 12.15625 10.4375 C 9.5526221 10.4375 7.4375 8.3223783 7.4375 5.71875 C 7.4375 3.4608496 9.036621 1.5863675 11.15625 1.125 C 10.781694 1.0517916 10.395988 1 10 1 z "
-       id="path2931" />
-    <path
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 6,10 C 4.698679,10 3.6030105,10.841652 3.1875,12 3.13481,11.9959 3.0849884,12 3.03125,12 1.9068771,12 1,12.906877 1,14.03125 1,15.155623 1.9068771,16.0625 3.03125,16.0625 L 9.5,16 C 10.328427,16 11,15.328427 11,14.5 11,13.671573 10.328427,13 9.5,13 9.327411,13 9.154319,13.040108 9,13.09375 9.001016,13.061654 9,13.032343 9,13 9,11.343146 7.6568543,10 6,10 z"
-       id="path3081"
-       sodipodi:nodetypes="ccssccssssc" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 7.96875 2 C 4.6800742 2.0195351 2 4.7071798 2 8 C 2 10.61632 3.6876898 12.838876 6.03125 13.65625 C 6.0287816 13.603356 6.03125 13.553437 6.03125 13.5 C 6.03125 13.024616 6.1306157 12.589131 6.3125 12.1875 C 4.6622949 11.521834 3.5 9.8949993 3.5 8 C 3.5 6.0150917 4.7864763 4.4140218 6.5625 3.8125 C 6.3724566 4.3446346 6.25 4.9006198 6.25 5.5 C 6.25 7.4639469 7.3607755 9.1392315 8.96875 10.03125 C 9.2480731 9.6227812 9.5861551 9.2446151 9.96875 8.9375 C 8.6567761 8.3552297 7.75 7.034513 7.75 5.5 C 7.75 4.6443455 8.0623457 3.8637624 8.5625 3.21875 L 9.5 2 L 7.96875 2 z "
+       id="path3085" />
   </g>
 </svg>
