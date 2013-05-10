@@ -2,12 +2,15 @@ Source: faenza-icon-theme
 Section: gnome
 Priority: extra
 Maintainer: Matthieu James <matthieu.james@gmail.com>
-Build-Depends: debhelper (>= 7)
+Build-Depends:
+ debhelper (>= 7)
 Standards-Version: 3.9.1
 Homepage: http://launchpad.net/~tiheum/+archive/equinox
 
 Package: faenza-icon-theme
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends:
+ ${misc:Depends},
+ ${shlibs:Depends}
 Description: Faenza Icon Theme
   The Faenza icon theme provide monochromatic icons for panels, toolbars and buttons and squared colorful icons for applications, devices, folders and files.
