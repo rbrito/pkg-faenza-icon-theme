@@ -1,8 +1,8 @@
 /* XPM */
 static char *google[] = {
 /* columns rows colors chars-per-pixel */
-"32 32 211 2 ",
-"   c black",
+"32 32 211 2",
+"   c #000000",
 ".  c #012E14",
 "X  c #133823",
 "o  c #057231",

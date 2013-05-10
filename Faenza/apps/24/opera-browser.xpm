@@ -1,8 +1,8 @@
 /* XPM */
 static char *opera_browser[] = {
 /* columns rows colors chars-per-pixel */
-"24 24 176 2 ",
-"   c black",
+"24 24 176 2",
+"   c #000000",
 ".  c #2F0202",
 "X  c #300202",
 "o  c #6F0705",

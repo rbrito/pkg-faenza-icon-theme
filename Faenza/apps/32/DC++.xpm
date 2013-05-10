@@ -1,8 +1,8 @@
 /* XPM */
 static char *DC__[] = {
 /* columns rows colors chars-per-pixel */
-"32 32 136 2 ",
-"   c black",
+"32 32 136 2",
+"   c #000000",
 ".  c #1C1C1B",
 "X  c #33361E",
 "o  c #232323",

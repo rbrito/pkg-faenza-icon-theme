@@ -1,8 +1,8 @@
 /* XPM */
 static char *terminal[] = {
 /* columns rows colors chars-per-pixel */
-"32 32 50 1 ",
-"  c black",
+"32 32 50 1",
+"  c #000000",
 ". c #141315",
 "X c #171518",
 "o c #18171A",
@@ -26,7 +26,7 @@ static char *terminal[] = {
 "3 c #3F3846",
 "4 c #403947",
 "5 c #433C4B",
-"6 c gray26",
+"6 c #424242",
 "7 c #484050",
 "8 c #545355",
 "9 c #5A585B",

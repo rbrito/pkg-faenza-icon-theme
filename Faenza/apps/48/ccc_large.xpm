@@ -1,8 +1,8 @@
 /* XPM */
 static char *ccc_large[] = {
 /* columns rows colors chars-per-pixel */
-"48 48 67 1 ",
-"  c black",
+"48 48 67 1",
+"  c #000000",
 ". c #0B0202",
 "X c #373737",
 "o c #3C3C3C",

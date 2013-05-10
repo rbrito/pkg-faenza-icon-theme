@@ -403,9 +403,15 @@
      inkscape:groupmode="layer">
     <path
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
-       d="M 3,0 C 2.446,0 2,0.446 2,1 L 2,2 2,3 14,3 14,2 C 14,1.446 13.554,1 13,1 L 7,1 C 7,0.446 6.554,0 6,0 z M 1.5,4 C 0.669,4 0,4.669 0,5.5 l 0,9 C 0,15.331 0.669,16 1.5,16 l 13,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-9 C 16,4.669 15.331,4 14.5,4 z"
+       d="M 2,0 C 1.446,0 1,0.446 1,1 L 1,2 15,2 C 15,1.446 14.554,1 14,1 L 7,1 C 7,0.446 6.554,0 6,0 z"
+       id="path3028"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccscss" />
+    <path
+       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+       d="M 1.5,3 C 0.669,3 0,3.669 0,4.5 l 0,10 C 0,15.331 0.669,16 1.5,16 l 13,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-10 C 16,3.669 15.331,3 14.5,3 z"
        id="path3040"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sscccsscsssssssssss" />
+       sodipodi:nodetypes="sssssssss" />
   </g>
 </svg>

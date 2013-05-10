@@ -1,8 +1,8 @@
 /* XPM */
 static char *googleearth[] = {
 /* columns rows colors chars-per-pixel */
-"32 32 233 2 ",
-"   c black",
+"32 32 233 2",
+"   c #000000",
 ".  c #0E0B18",
 "X  c #251E3C",
 "o  c #26293D",

@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Faenza-Ambiance
 Comment=Smooth modern theme designed to be intuitive.
-Inherits=Faenza-Darkest,gnome,hicolor
+Inherits=Faenza-Darkest
 
 Example=directory-x-normal
 

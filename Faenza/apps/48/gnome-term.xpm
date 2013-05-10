@@ -1,8 +1,8 @@
 /* XPM */
 static char *gnome_term[] = {
 /* columns rows colors chars-per-pixel */
-"48 48 53 1 ",
-"  c black",
+"48 48 53 1",
+"  c #000000",
 ". c #0C0C0D",
 "X c #0F0E10",
 "o c #100F12",
@@ -36,9 +36,9 @@ static char *gnome_term[] = {
 "e c #5C5C5C",
 "r c #717072",
 "t c #7B7A7D",
-"y c gray55",
+"y c #8C8C8C",
 "u c #969696",
-"i c gray61",
+"i c #9C9C9C",
 "p c #A09FA1",
 "a c #A3A3A3",
 "s c #A7A7A8",

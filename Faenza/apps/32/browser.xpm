@@ -1,8 +1,8 @@
 /* XPM */
 static char *browser[] = {
 /* columns rows colors chars-per-pixel */
-"32 32 150 2 ",
-"   c black",
+"32 32 150 2",
+"   c #000000",
 ".  c #782734",
 "X  c #0A2641",
 "o  c #623A50",
