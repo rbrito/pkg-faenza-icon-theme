@@ -4,10 +4,6 @@
 	dh $@
 
 override_dh_install:
-	cp -dpRf Faenza* $(CURDIR)/debian/faenza-icon-theme/usr/share/icons
+	dh_install
 	rm -Rf $(CURDIR)/debian/faenza-icon-theme/usr/share/icons/Faenza/extras
 	rm -Rf $(CURDIR)/debian/faenza-icon-theme/usr/share/icons/Faenza-Dark/extras
-	#cp -dpRf rhythmbox $(CURDIR)/debian/faenza-icon-theme/usr/lib
-	#cp -dpRf dockmanager $(CURDIR)/debian/faenza-icon-theme/usr/share
-	cp -dpRf emesene $(CURDIR)/debian/faenza-icon-theme/usr/share
-	dh_install
