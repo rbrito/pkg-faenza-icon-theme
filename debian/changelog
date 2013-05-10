@@ -1,0 +1,121 @@
+faenza-icon-theme (1.1) karmic; urgency=low
+
+  * New apps: Gnome documents, Gnome contacts, Gnome online accounts, Gnome freecell, Clementine, Onboard, preferences-color, Screenruler, Scribes, Steam, Tracker, Wunderlist, Xterm
+  * New devices: tablet, network wired, network wireless, VPN, system harddisk
+  * Some reworked icons (Baobab, Gparted, Time-admin, Gconf editor, all folders)
+  * Emblems are more homogeneous
+  * Some new status icons and two new themes (Faenza-Ambiance and Feanza-Radiance) for a better integration with Unity in Ubuntu 10.10
+
+ -- Matthieu James <matthieu.james@gmail.com>  Thu, 13 Oct 2011 17:32:00 +0200
+
+faenza-icon-theme (1.0-ubuntu1) karmic; urgency=low
+
+  * Ubuntu logo is back !
+
+ -- Matthieu James <matthieu.james@gmail.com>  Thu, 11 Aug 2011 18:04:00 +0200
+
+faenza-icon-theme (1.0) karmic; urgency=low
+
+  * New apps: preferences-desktop-wallpaper, SEtroubleshoot, system-switch-java, Fedora autoplus, Fedora-release-notes
+  * New status icons: nm-device-wired-secure
+  * Some reworked icons for applications and Fedora logo
+  * A wide bunch of new symbolic icons for Gnome Shell
+  * Better support for XFCE
+  * All applications in 16x16
+  * Fix some missing links
+
+ -- Matthieu James <matthieu.james@gmail.com>  Wed, 10 Aug 2011 13:07:00 +0200
+
+faenza-icon-theme (0.9-ubuntu3) karmic; urgency=low
+
+  * New logos: Gentoo, Slackware
+  * New actions: folder-move, folder-copy
+  * New apps: libreoffice, workspace-switcher, wine notepad, winetricks, stellarium, mypaint
+  * New mimetypes: application-pgp-keys, encrypted
+  * New status icons: gsm 3G network, wireless secure network, bluetooth paired, weather icons in 24x24
+  * Color or opacity changes for some status icons
+  * A new design for Ubuntu One
+  * A few new 16x16 applications icons
+
+ -- Matthieu James <matthieu.james@gmail.com>  Thu, 14 Apr 2011 11:48:00 +0200
+
+faenza-icon-theme (0.9-ubuntu2) karmic; urgency=low
+
+  * Faenza-Darker is now really included in the package ;)
+
+ -- Matthieu James <matthieu.james@gmail.com>  Tue, 29 Mar 2011 21:39:00 +0200
+
+faenza-icon-theme (0.9-ubuntu1) karmic; urgency=low
+
+  * A new Faenza-Darker theme with light monochrome icons for (dark) panels and menus and dark monochrome icons for toolbars
+  * Fix wrong links for system actions displayed in panel with Faenza-Darkest
+  * Fix missing links for XFCE panel
+  * Add gnome-fs-bookmark
+  * A few new 16x16 applications icons
+
+ -- Matthieu James <matthieu.james@gmail.com>  Tue, 29 Mar 2011 18:21:00 +0200
+
+faenza-icon-theme (0.9) karmic; urgency=low
+
+  * A new "darkest" theme with status and actions icons both in light grey
+  * A wide bunch of old and new devices and actions in all sizes
+  * New applications: debian software center, deja-dup, dc++, dvdrip, GCStar, guake, haguichi, Me TV, meld, file manager, nautilus actions configuration tool, tvtime, xine, zim
+  * New status icons for Cover Gloobus, Me TV, zim, guake, keepassx
+  * Highlight borders have been modified for all squared icons in 22x22 and 24x24
+  * All monochromes icons have been reworked for smoother contrast
+  * A new design for most of actions in 32x32 and above
+  * Some reworked icons for applications
+  * Subtle change in folders colour
+  * Some fixes
+
+ -- Matthieu James <matthieu.james@gmail.com>  Fri, 18 Mar 2011 15:05:00 +0200
+
+faenza-icon-theme (0.8-ubuntu1) karmic; urgency=low
+
+  * New applications: deja-dup, dvdrip, guake, xine, Me TV, tvtime
+  * Reworked icons for folder-recent, document-open-recent, totem
+  * Fix empathy status icons for Faenza-Dark theme in Ubuntu 10.10
+  * Highlight borders have been modified for all squared icons in 22x22 and 24x24
+  * All monochromes gray icons have been reworked for better contrast
+
+ -- Matthieu James <matthieu.james@gmail.com>  Wed, 24 Nov 2010 18:39:15 +0200
+
+faenza-icon-theme (0.8) karmic; urgency=low
+
+  * New icons for applications, emblems, weather, update manager and panel.
+  * Reworked icons for gwibber, firefox, chromium and google chrome
+  * Some fixes for missing links and panels icons (especially with dark theme)
+  * More different sizes for existing icons
+
+ -- Matthieu James <matthieu.james@gmail.com>  Fri, 19 Nov 2010 09:50:23 +0200
+
+faenza-icon-theme (0.7-ubuntu1) lucid; urgency=low
+
+  * Return of the monochrome Ubuntu logo in place of Gnome feet for the main menu
+
+ -- Matthieu James <matthieu.james@gmail.com>  Sat, 04 Sep 2010 12:15:43 +0200
+
+faenza-icon-theme (0.7) lucid; urgency=low
+
+  * New icons for applications, mimetypes and panel.
+  * Some 16x16 icons for main applications.
+  * Some fixes for dark status icons.
+  * New logos for Archlinux and Frugalware.
+  * Skype icons for Dockmanager.
+  * New Emesene themes.
+
+ -- Matthieu James <matthieu.james@gmail.com>  Wed, 25 Aug 2010 22:07:35 +0200
+
+faenza-icon-theme (0.6) lucid; urgency=low
+
+  * New icons for applications and devices.
+  * Some fixes for dark status icons and wrong or missing icons names.
+  * New bunch of monochromatic distributor logos for gnome main menu.
+
+ -- Matthieu James <matthieu.james@gmail.com>  Tue, 10 Aug 2010 16:34:05 +0200
+
+faenza-icon-theme (0.5) lucid; urgency=low
+
+  * Initial release.
+
+ -- Matthieu James <matthieu.james@gmail.com>  Fri, 30 Jul 2010 17:06:40 +0200
