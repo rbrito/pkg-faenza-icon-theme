@@ -3,7 +3,7 @@ Section: gnome
 Priority: extra
 Maintainer: Matthieu James <matthieu.james@gmail.com>
 Build-Depends:
- debhelper (>= 7)
+ debhelper (>= 9)
 Standards-Version: 3.9.1
 Homepage: http://launchpad.net/~tiheum/+archive/equinox
 
