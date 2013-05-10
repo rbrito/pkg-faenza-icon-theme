@@ -1,7 +1,7 @@
 Source: faenza-icon-theme
 Section: gnome
 Priority: extra
-Maintainer: Matthieu James <matthieu.james@gmail.com>
+Maintainer: Rogério Brito <rbrito@ime.usp.br>
 Build-Depends:
  debhelper (>= 9)
 Standards-Version: 3.9.1
