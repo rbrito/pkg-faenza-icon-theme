@@ -8,3 +8,6 @@ override_dh_install:
 	find $(CURDIR)/debian/faenza-icon-theme -type f -print0 | xargs -0 chmod a-x
 	rm -Rf $(CURDIR)/debian/faenza-icon-theme/usr/share/icons/Faenza/extras
 	rm -Rf $(CURDIR)/debian/faenza-icon-theme/usr/share/icons/Faenza-Dark/extras
+
+override_dh_builddeb:
+	dh_builddeb -- -Zxz -Sextreme
