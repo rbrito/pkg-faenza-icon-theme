@@ -1,7 +1,7 @@
 /* XPM */
 static char *opera[] = {
 /* columns rows colors chars-per-pixel */
-"48 48 185 2 ",
+"48 48 185 2",
 "   c #000000",
 ".  c #3C0404",
 "X  c #5D1313",
@@ -53,7 +53,7 @@ static char *opera[] = {
 "x  c #9B3A3A",
 "c  c #A32323",
 "v  c #AA2525",
-"b  c brown",
+"b  c #A52A2A",
 "n  c #AD2929",
 "m  c #B22323",
 "M  c #B92424",

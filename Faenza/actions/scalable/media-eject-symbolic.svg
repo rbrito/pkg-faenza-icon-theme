@@ -14,9 +14,9 @@
    height="16"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.2 r9819"
    version="1.0"
-   sodipodi:docname="media-eject.svg"
+   sodipodi:docname="media-eject-symbolic.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4">
@@ -127,9 +127,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1030"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="22"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
@@ -169,10 +169,6 @@
      id="layer4"
      inkscape:label="Arrow"
      style="display:inline">
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline;opacity:0.15"
-       d="M 7.875 1.9375 A 1.0490583 1.0490583 0 0 0 7.1875 2.34375 L 2.1875 8.375 A 1.0490583 1.0490583 0 0 0 2.625 10 A 1.0490583 1.0490583 0 0 0 1.9375 11 L 1.9375 13 A 1.0490583 1.0490583 0 0 0 3 14.0625 L 13 14.0625 A 1.0490583 1.0490583 0 0 0 14.0625 13 L 14.0625 11 A 1.0490583 1.0490583 0 0 0 13.375 10.03125 A 1.0490583 1.0490583 0 0 0 13.8125 8.375 L 8.8125 2.34375 A 1.0490583 1.0490583 0 0 0 7.96875 1.9375 A 1.0490583 1.0490583 0 0 0 7.875 1.9375 z M 8 3 L 13 9.03125 L 3 9.03125 L 8 3 z M 3 11 L 13 11 L 13 13 L 3 13 L 3 11 z "
-       id="path4543" />
     <path
        id="Symbol"
        style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.99999976000000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"

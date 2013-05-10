@@ -1,8 +1,8 @@
 /* XPM */
 static char *picasa[] = {
 /* columns rows colors chars-per-pixel */
-"32 32 190 2 ",
-"   c black",
+"32 32 190 2",
+"   c #000000",
 ".  c #505050",
 "X  c #CA3336",
 "o  c #D03B3D",
@@ -113,7 +113,7 @@ static char *picasa[] = {
 ">. c #B292BF",
 ",. c #8FA2BA",
 "<. c #B4A1BD",
-"1. c gray75",
+"1. c #BFBFBF",
 "2. c #CD898A",
 "3. c #D3999A",
 "4. c #E89091",

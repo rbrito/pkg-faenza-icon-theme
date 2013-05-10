@@ -1,3 +1,12 @@
+faenza-icon-theme (1.2) lucid; urgency=low
+
+  * New apps: Desura, Gajim, Google Music Frame, Mail notification
+  * New icons sizes: 64x64 and 96x96
+  * Fixes the specific folders icons replaced by the standard one
+  * Fixes some missing links
+
+ -- Matthieu James <matthieu.james@gmail.com>  Wed, 16 Nov 2011 13:28:00 +0200
+
 faenza-icon-theme (1.1) karmic; urgency=low
 
   * New apps: Gnome documents, Gnome contacts, Gnome online accounts, Gnome freecell, Clementine, Onboard, preferences-color, Screenruler, Scribes, Steam, Tracker, Wunderlist, Xterm

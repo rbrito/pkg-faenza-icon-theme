@@ -1,7 +1,7 @@
 /* XPM */
 static char *xchat[] = {
 /* columns rows colors chars-per-pixel */
-"48 48 183 2 ",
+"48 48 183 2",
 "   c #000000",
 ".  c #374E0F",
 "X  c #39520E",
@@ -183,7 +183,7 @@ static char *xchat[] = {
 "'. c #ECECEC",
 "]. c #F0F0EF",
 "[. c #F1F1F1",
-"{. c gray98",
+"{. c #FAFAFA",
 "}. c None",
 /* pixels */
 "}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.}.",

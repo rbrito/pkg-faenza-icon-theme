@@ -1,8 +1,8 @@
 /* XPM */
-static char *gcolor2[] = {
+static char *gcolor_[] = {
 /* columns rows colors chars-per-pixel */
-"32 32 213 2 ",
-"   c black",
+"32 32 213 2",
+"   c #000000",
 ".  c #151517",
 "X  c #373438",
 "o  c #4C3E3F",

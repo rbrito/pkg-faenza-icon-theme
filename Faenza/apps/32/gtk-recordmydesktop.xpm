@@ -1,8 +1,8 @@
 /* XPM */
 static char *gtk_recordmydesktop[] = {
 /* columns rows colors chars-per-pixel */
-"32 32 138 2 ",
-"   c black",
+"32 32 138 2",
+"   c #000000",
 ".  c #3B450E",
 "X  c #677716",
 "o  c #6D7F1C",

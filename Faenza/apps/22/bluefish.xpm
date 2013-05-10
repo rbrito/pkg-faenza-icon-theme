@@ -1,8 +1,8 @@
 /* XPM */
 static char *bluefish[] = {
 /* columns rows colors chars-per-pixel */
-"22 22 173 2 ",
-"   c black",
+"22 22 173 2",
+"   c #000000",
 ".  c #1E303D",
 "X  c #21312B",
 "o  c #1F334A",
@@ -171,7 +171,7 @@ static char *bluefish[] = {
 "R. c #D3DBE5",
 "E. c #D7E5E0",
 "W. c #E6E6E6",
-"Q. c gray91",
+"Q. c #E8E8E8",
 "!. c #E5EBF4",
 "~. c #F3F6FA",
 "^. c None",
