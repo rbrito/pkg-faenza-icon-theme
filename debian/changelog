@@ -1,6 +1,6 @@
-faenza-icon-theme (1.3.1-0~6.gbp79e51c) UNRELEASED; urgency=low
+faenza-icon-theme (1.3.1-0~7.gbp26840a) UNRELEASED; urgency=low
 
-  ** SNAPSHOT build @79e51ca0dcc7425050cc7c3802f2a15e63caae47 **
+  ** SNAPSHOT build @26840a6ea62476420ff30f016d7c2ef21d3007be **
 
   * Use non-native version string.
   * debian/source/format:
@@ -12,6 +12,8 @@ faenza-icon-theme (1.3.1-0~6.gbp79e51c) UNRELEASED; urgency=low
     + Remove excess capitalization from short description.
     + Wrap long description.
     + Mark me as the maintainer.
+    + Conform to the policy, change Priority to optional from extra.
+    + Add Vcs-* fields.
   * debian/copyright:
     + Change completely to Copyright Format 1.0.
     + Fix indentation with `cme fix dpkg`.
