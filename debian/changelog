@@ -2,6 +2,7 @@ faenza-icon-theme (1.3.1-0~8.gbp310869) UNRELEASED; urgency=low
 
   ** SNAPSHOT build @3108694f389c3e5ff563431f3ccaaf54bf3b5ed8 **
 
+  * Initial release, Closes: #595106.
   * Use non-native version string.
   * debian/source/format:
     + Declare the package source to be '3.0 (quilt)'.
