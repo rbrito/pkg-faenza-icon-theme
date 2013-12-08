@@ -6,6 +6,8 @@ Build-Depends:
  debhelper (>= 9)
 Standards-Version: 3.9.1
 Homepage: http://launchpad.net/~tiheum/+archive/equinox
+Vcs-Git: https://github.com/rbrito/pkg-faenza-icon-theme.git
+Vcs-Browser: https://github.com/rbrito/pkg-faenza-icon-theme
 
 Package: faenza-icon-theme
 Architecture: all
