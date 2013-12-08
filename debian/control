@@ -1,6 +1,6 @@
 Source: faenza-icon-theme
 Section: gnome
-Priority: extra
+Priority: optional
 Maintainer: Rogério Brito <rbrito@ime.usp.br>
 Build-Depends:
  debhelper (>= 9)
