@@ -3,7 +3,9 @@ Section: gnome
 Priority: optional
 Maintainer: Rogério Brito <rbrito@ime.usp.br>
 Build-Depends:
+ advancecomp,
  debhelper (>= 9),
+ optipng,
  rdfind,
  symlinks
 Standards-Version: 3.9.5
