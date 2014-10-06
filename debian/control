@@ -6,6 +6,7 @@ Build-Depends:
  advancecomp,
  debhelper (>= 9),
  optipng,
+ parallel,
  rdfind,
  symlinks
 Standards-Version: 3.9.5
