@@ -1,5 +1,7 @@
 #!/usr/bin/make -f
 
+PACKAGE_DIR=$(CURDIR)/debian/faenza-icon-theme
+
 %:
 	dh $@
 
@@ -8,12 +10,12 @@ override_dh_install:
 
 	dh_install
 
-	rdfind -outputname /dev/null -makesymlinks true debian/faenza-icon-theme
-	symlinks -c -r -s debian/faenza-icon-theme
+	rdfind -outputname /dev/null -makesymlinks true $(PACKAGE_DIR)
+	symlinks -c -r -s $(PACKAGE_DIR)
 
-	find $(CURDIR)/debian/faenza-icon-theme -type f -print0 | xargs -0 chmod a-x
-	rm -Rf $(CURDIR)/debian/faenza-icon-theme/usr/share/icons/Faenza/extras
-	rm -Rf $(CURDIR)/debian/faenza-icon-theme/usr/share/icons/Faenza-Dark/extras
+	find $(PACKAGE_DIR) -type f -print0 | xargs -0 chmod a-x
+	rm -Rf $(PACKAGE_DIR)/usr/share/icons/Faenza/extras
+	rm -Rf $(PACKAGE_DIR)/usr/share/icons/Faenza-Dark/extras
 
 override_dh_builddeb:
 	dh_builddeb -- -Zxz -Sextreme
