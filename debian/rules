@@ -20,5 +20,5 @@ override_dh_install:
 	# find $(PACKAGE_DIR) -iname "*.png" -type f -print0 | parallel -0 --eta 'advdef -z4 {}'
 
 	find $(PACKAGE_DIR) -type f -print0 | xargs -0 chmod a-x
-	rm -Rf $(PACKAGE_DIR)/usr/share/icons/Faenza/extras
-	rm -Rf $(PACKAGE_DIR)/usr/share/icons/Faenza-Dark/extras
+	rm -rf $(PACKAGE_DIR)/usr/share/icons/Faenza/extras
+	rm -rf $(PACKAGE_DIR)/usr/share/icons/Faenza-Dark/extras
