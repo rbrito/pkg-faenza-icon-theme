@@ -17,7 +17,7 @@ Package: faenza-icon-theme
 Architecture: all
 Depends:
  ${misc:Depends}
-Description: Faenza icon theme
+Description: square shaped, colorful icons for desktops
  The Faenza icon theme provide monochromatic icons for panels, toolbars and
  buttons and squared colorful icons for applications, devices, folders and
  files.
