@@ -16,8 +16,7 @@ Rules-Requires-Root: no
 Package: faenza-icon-theme
 Architecture: all
 Depends:
- ${misc:Depends},
- ${shlibs:Depends}
+ ${misc:Depends}
 Description: Faenza icon theme
  The Faenza icon theme provide monochromatic icons for panels, toolbars and
  buttons and squared colorful icons for applications, devices, folders and
