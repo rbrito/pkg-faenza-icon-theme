@@ -8,8 +8,8 @@ Build-Depends:
  rdfind,
  symlinks
 Standards-Version: 3.9.5
-Homepage: http://launchpad.net/~tiheum/+archive/equinox
-Vcs-Git: https://github.com/rbrito/pkg-faenza-icon-theme.git
+Homepage: https://launchpad.net/~tiheum/+archive/equinox
+Vcs-Git: https://github.com/rbrito/pkg-faenza-icon-theme
 Vcs-Browser: https://github.com/rbrito/pkg-faenza-icon-theme
 
 Package: faenza-icon-theme
