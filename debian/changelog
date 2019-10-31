@@ -1,6 +1,6 @@
-faenza-icon-theme (1.3.1-2~4.gbp7ebc14) UNRELEASED; urgency=medium
+faenza-icon-theme (1.3.1-2~5.gbpa04acf) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @7ebc14442be48f21cb831b690707e67aee7cd684 **
+  ** SNAPSHOT build @a04acf81c83443b3b0495dca16da88169d7b4cca **
 
   * debian/create-symlinks.sh: Add script to fix start-here icons.
   * debian/rules:
@@ -9,6 +9,8 @@ faenza-icon-theme (1.3.1-2~4.gbp7ebc14) UNRELEASED; urgency=medium
     + Disable custom compression of the deb package with xz.
   * debian/control:
     + Add build-deps on rdfind and symlinks.
+    + Remove the shlib:depends variable, as it is not used.
+    + Use a better short description.
     + Set Rules-Requires-Root field to no.
     + Mark compliancy with policy 4.4.1.
   * debian/{compat,control}:
@@ -18,7 +20,7 @@ faenza-icon-theme (1.3.1-2~4.gbp7ebc14) UNRELEASED; urgency=medium
   * debian/copyright:
     + Update my copyright years.
 
- -- Rogério Brito <rbrito@ime.usp.br>  Thu, 31 Oct 2019 17:19:56 -0300
+ -- Rogério Brito <rbrito@ime.usp.br>  Thu, 31 Oct 2019 17:29:09 -0300
 
 faenza-icon-theme (1.3.1-1) unstable; urgency=low
 
