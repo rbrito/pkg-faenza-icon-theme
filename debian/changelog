@@ -1,5 +1,6 @@
 faenza-icon-theme (1.3.1-2~5.gbpa04acf) UNRELEASED; urgency=medium
 
+  [ Rogério Brito ]
   ** SNAPSHOT build @a04acf81c83443b3b0495dca16da88169d7b4cca **
 
   * debian/create-symlinks.sh: Add script to fix start-here icons.
@@ -19,6 +20,9 @@ faenza-icon-theme (1.3.1-2~5.gbpa04acf) UNRELEASED; urgency=medium
     + Use https instead of http.
   * debian/copyright:
     + Update my copyright years.
+
+  [ Debian Janitor ]
+  * Use canonical URL in Vcs-Git.
 
  -- Rogério Brito <rbrito@ime.usp.br>  Thu, 31 Oct 2019 17:29:09 -0300
 
