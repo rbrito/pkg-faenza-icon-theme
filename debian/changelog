@@ -25,6 +25,7 @@ faenza-icon-theme (1.3.1-2~5.gbpa04acf) UNRELEASED; urgency=medium
   * Use canonical URL in Vcs-Git.
   * Wrap long lines in changelog entries: 1.1, 1.0, 0.9-ubuntu3, 0.9-
     ubuntu1, 0.9, 0.8-ubuntu1, 0.7-ubuntu1.
+  * Update standards version to 4.5.0, no changes needed.
 
  -- Rogério Brito <rbrito@ime.usp.br>  Thu, 31 Oct 2019 17:29:09 -0300
 
