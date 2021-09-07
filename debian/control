@@ -3,7 +3,7 @@ Section: gnome
 Priority: optional
 Maintainer: Rogério Brito <rbrito@ime.usp.br>
 Build-Depends:
- debhelper (>= 12~),
+ debhelper,
  debhelper-compat (= 12),
  rdfind,
  symlinks
